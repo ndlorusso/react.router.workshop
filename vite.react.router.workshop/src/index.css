@@ -17,6 +17,7 @@ body > div {
 #navbar {
   padding: 2em;
   justify-content: space-evenly;
+  background-color: #b2c8ec;
 }
 #main-section {
   flex-grow: 1;
@@ -35,6 +36,8 @@ body > div {
   background-color: #275db3;
   color: white;
 }
+
+/* <--------------- ADDED CSS -------------> */
 
 .home {
   background-color: #713f88;
